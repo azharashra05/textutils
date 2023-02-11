@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This website is live on this url:https://bawaltextutils.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
